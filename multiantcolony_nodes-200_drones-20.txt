@@ -1,2 +1,2 @@
-Global minimum distance: 33379.9641425559
-Final Path Seq len: [6, 4, 5, 5, 102, 1, 12, 1, 2, 6, 2, 3, 9, 3, 4, 13, 12, 1, 7, 1]
+Global minimum distance: 24334.150084726738
+Final Path Seq len: [5, 5, 4, 5, 4, 4, 5, 1, 1, 9, 1, 10, 5, 3, 2, 2, 6, 120, 2, 5]

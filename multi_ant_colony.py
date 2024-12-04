@@ -60,6 +60,7 @@ class MultiAntColony(object):
         return global_shortest_pathset, shortest_pathset_record
 
     def spread_pheronome(self, all_pathset):
+        self.pheromone *= self.decay
         for pathset in all_pathset:
             for path in pathset[0]:
                 for move in path:
